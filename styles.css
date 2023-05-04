@@ -1,0 +1,19 @@
+body {
+  height: 100vh;
+  margin: 0;
+}
+
+#container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+#omg,
+#excuse {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+}
